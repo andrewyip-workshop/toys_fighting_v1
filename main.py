@@ -661,4 +661,5 @@ while run:
 
 pygame.quit() 
 
-
+#Copyright © 2025 by futuristickids (Instagram), Futuristic Kids(Facebook), ay.parentingworkshop@yahoo.com, Andrew Yip
+#All rights reserved
