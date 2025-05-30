@@ -5,6 +5,7 @@ import random
 
 
 
+
 #Functions 
 def load_image(img, scale): 
     img = pygame.image.load(img)
